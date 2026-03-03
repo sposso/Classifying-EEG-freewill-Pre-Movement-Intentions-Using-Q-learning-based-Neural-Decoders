@@ -9,7 +9,7 @@ import os
 from scipy.io import savemat
 
 parser = argparse.ArgumentParser(description='DQN Training')
-parser.add_argument('--dataset_path', type=str, default='/home/sposso22/Documents/Freewill_EEG_Reaching_Grasping/derivatives/matfiles', help='Path to the dataset')
+parser.add_argument('--dataset_path', type=str, default='.../Freewill_EEG_Reaching_Grasping/derivatives/matfiles', help='Path to the dataset')
 parser.add_argument('--t_start', type=float, default=-0.5, help='Start time of the trial')
 parser.add_argument('--t_end', type=float, default=0.0, help='End time of the trial')
 parser.add_argument('--low_cut', type=float, default=0.1, help='Low cut frequency')
