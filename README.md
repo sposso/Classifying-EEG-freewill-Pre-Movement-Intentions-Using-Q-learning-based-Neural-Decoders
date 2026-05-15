@@ -1,12 +1,8 @@
-# Classifying EEG freewill Pre-Movement Intentions Using Q-learning-based Neural Decoders in Reinforcement Learning Brain Machine Interfaces
 
-## Citation
 
-If you use this code in your research and find it useful, please cite our paper:
+# Paper
 
-> Jenna Kim, Santiago Posso-Murillo, and Jihye Bae, “Classifying Freewill Premovement Intentions from EEG Using Q-Learning-Based Neural Decoders in Reinforcement Learning Brain Machine Interfaces,” accepted to **EMBC 2026**.
-
-(Links mentioned in the paper: this repository and https://github.com/jkim1229/EMBC-2026-Premovement-FREEWILL-EEG-QKTD)
+This repository contains the code used to run the experiments presented in **"Classifying Freewill Pre-Movement Intentions from EEG Using Q-Learning-Based Neural Decoders in Reinforcement Learning Brain Machine Interfaces"**.
 
 ## Python files
 
